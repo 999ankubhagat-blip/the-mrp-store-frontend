@@ -1,4 +1,13 @@
-﻿# Node
+node_modules/
+.next/
+.env
+.DS_Store
+npm-debug.log
+yarn-error.log
+/dist/
+uploads/
+
+# Node
 node_modules/
 npm-debug.log
 yarn-error.log
